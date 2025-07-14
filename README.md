@@ -1,4 +1,4 @@
-Zypeme(Dating app)
+Dating app
 A smart dating app that uses face verification, location-based matching, and in-app chat to connect users securely and meaningfully.
 Features
  Implemented
